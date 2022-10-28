@@ -7,16 +7,19 @@ title: Gabriel Goren
 
 My name is Gabriel Goren. I am a Mathematics PhD student at [Universidad de Buenos Aires](https://www.uba.ar/) / [CONICET](www.conicet.gob.ar) under the supervision of [Santiago Figueira](https://glyc.dc.uba.ar/santiago/).
 
-I am interested in applying Category Theory and Logic to the study of complex, interconnected systems.
+A physicist by training, I am interested in applying Category Theory and Logic to the study of complex, interconnected systems, in particular with respect to coarse-graining and change of scale.
 
 <!-- Picture of mine -->
 <p style="text-align:center;">
 <img src="assets/headshot.jpg" alt="Picture" width="200"/>
 </p>
 
-Some topics that have interested me in the past (and still do!) are: algorithmic information theory, causal networks, inference of state machines from time series data (e.g. Crutchfield et al.'s causal states framework).
+Some topics on which I have worked in the past are: algorithmic information theory, causal networks and causal inference (causal discovery in particular), inference of state machines from time series data (mainly Crutchfield et al.'s predictive states framework).
 
-<!-- ## Upcoming -->
+## Upcoming
+
+- Starting November 23 I will be teaching a [short, introductory, online course on Causal Inference](https://humai.com.ar/cursos/causalidad.html) at [Humai](https://humai.com.ar/index.html) (in Spanish) together with [Wendy Brau](https://ar.linkedin.com/in/wendy-brau) and [Pedro Zenone](https://ar.linkedin.com/in/pedro-zenone-9018b65b).
+- In preparation: S. Figueira, G. Goren, _Path Predicate Modal Logic and its Comonadic Semantics_
 
 ## News
 
