@@ -35,4 +35,6 @@ Some topics on which I have worked in the past are: algorithmic information theo
 
 - Participated in the [Adjoint School 2021](https://adjointschool.com/2021.html). During the Research Week, took part in the Extensions of Coalgebraic Dynamic Logic group under the mentoring of Helle Hvid Hansen and Clemens Kupke. As culmination of the Research Week, gave a talk at the [ACT 2021 Conference](https://www.cl.cam.ac.uk/events/act2021/) together with [Amin Karamlou](https://aminkaramlou.github.io/) titled *Stochastic game logic, coalgebraically*.
 - Received a [Licentiate Degree in Physics](https://www.df.uba.ar/es/futuros-estudiantes/guia-para-el-estudiante) from Universidad de Buenos Aires.
+- Defended my Licentiate Thesis, _Inferencia causal mediante correlación
+sintáctica_ ([Thesis](assets/Goren_Gabriel_Tesis_Lic.pdf)) ([Slides](assets/Defensa_de_Tesis_Lic_Gabriel_Goren.pdf)) (in Spanish) conducted under the supervision of Ariel Bendersky and [Santiago Figueira](https://glyc.dc.uba.ar/santiago/).
 - Received a national grant from [CONICET](www.conicet.gob.ar) to pursue a PhD.
