@@ -1,31 +1,34 @@
 ---
 layout: default
-title: Gabriel Goren
+title: Gabriel Goren Roig
+use_math: true
 ---
 
-# Gabriel Goren
+# Gabriel Goren Roig
 
-My name is Gabriel Goren. I am a Mathematics PhD student at [Universidad de Buenos Aires](https://www.uba.ar/) / [CONICET](www.conicet.gob.ar) under the supervision of [Santiago Figueira](https://glyc.dc.uba.ar/santiago/).
+My name is Gabriel Goren Roig. I am a Mathematics PhD student at [Universidad de Buenos Aires](https://www.uba.ar/) / [CONICET](www.conicet.gob.ar) under the supervision of [Santiago Figueira](https://glyc.dc.uba.ar/santiago/).
 
-A physicist by training, I am interested in applying Category Theory and Logic to the study of complex, interconnected systems, in particular with respect to coarse-graining and change of scale.
+A physicist by training, I am interested in applying Category Theory and Logic to the study of the relationship between systems and their constituents.
+<!-- in particular with respect to coarse-graining and change of scale. -->
 
 <!-- Picture of mine -->
 <p style="text-align:center;">
 <img src="assets/headshot.jpg" alt="Picture" width="200"/>
 </p>
 
-Some topics on which I have worked in the past are: algorithmic information theory, causal networks and causal inference (causal discovery in particular), inference of state machines from time series data (mainly Crutchfield et al.'s predictive states framework).
+My current research projects are somewhat database-flavored. I am working on an application of the Comonadic Semantics formalism for Finite Model Theory to the study of something called _data-aware logics_. I am also working on developing algorithms for performing certain categorical constructions in the context of Categorical Database Theory.
+
+Here are some topics that I like and on which I have worked in the past: algorithmic information theory, causal networks and causal discovery, Crutchfield et al.'s predictive states framework for inference of state machines from time series data.
 
 ## Upcoming
-
-- Starting November 23 I will be teaching a [short, introductory, online course on Causal Inference](https://humai.com.ar/cursos/causalidad.html) at [Humai](https://humai.com.ar/index.html) (in Spanish) together with [Wendy Brau](https://ar.linkedin.com/in/wendy-brau) and [Pedro Zenone](https://ar.linkedin.com/in/pedro-zenone-9018b65b).
-- In preparation: S. Figueira, G. Goren, _Path Predicate Modal Logic and its Comonadic Semantics_
+- In preparation: S. Figueira, G. Goren Roig, _Path Predicate Modal Logic and its Comonadic Semantics_
 
 ## News
 
 ### 2022
 
-- Currently organising a local reading group on basic Category Theory following Riehl's *Category Theory in Context* and Spivak & Fong's *Seven Sketches*.
+- Nov. 23rd - Dec. 21st: taught an [introductory, online course on Causal Inference](https://humai.com.ar/cursos/causalidad.html) at [Humai](https://humai.com.ar/index.html) (in Spanish) together with [Wendy Brau](https://ar.linkedin.com/in/wendy-brau) and [Pedro Zenone](https://ar.linkedin.com/in/pedro-zenone-9018b65b).
+- Organized a local reading group on basic Category Theory following Riehl's *Category Theory in Context* and Spivak & Fong's *Seven Sketches*.
 - Presented a poster (available [here](/assets/poster-eci2022.pdf)) (in Spanish) trying to give an introductory explanation for CS/Math students of Abramsky et al.'s Comonadic Semantics programme, at the [ECI 2022](https://eci.dc.uba.ar/what-is-eci/) (School of Informatic Sciences) in Buenos Aires.
 - Gave a talk at the [Structure Meets Power 2022 Workshop](https://www.cst.cam.ac.uk/conference/structure-meets-power-2022) on the topic of *Path Predicate Modal Logic and its Comonadic Semantics* ([Extended Abstract](https://www.cst.cam.ac.uk/files/book-of-abstracts.pdf#page=12), [Slides](https://www.cst.cam.ac.uk/files/smp2022-1745-goren.pdf))
 - Gave an invited lecture on Introductory Probability Theory to students of Mathematics for Machine Learning at the [Humai](https://ihum.ai/) institute.

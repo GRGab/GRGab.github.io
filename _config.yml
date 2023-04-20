@@ -1,5 +1,5 @@
-title: Gabriel Goren
-name: Gabriel Goren
+title: Gabriel Goren Roig
+name: Gabriel Goren Roig
 email: gabrielgoren@gmail.com
 markdown: kramdown
 
@@ -11,7 +11,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
-github_username:  gabrielgoren
+github_username:  gabrielgorenroig
 
 # Build settings
 # theme: minima
