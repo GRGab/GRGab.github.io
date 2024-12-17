@@ -1,5 +1,7 @@
 .jekyll-cache
+.jekyll-cache/
 local_notes.md
+_site/
 _site
 _site/index.html
 _site/README.md

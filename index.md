@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Gabriel Goren Roig
+title: Gabriel Goren-Roig
 use_math: true
 ---
 
-# Gabriel Goren Roig
+# Gabriel Goren-Roig
 
-My name is Gabriel Goren Roig. I am a Mathematics PhD student at [Universidad de Buenos Aires](https://www.uba.ar/) / [CONICET](www.conicet.gob.ar) under the supervision of [Santiago Figueira](https://glyc.dc.uba.ar/santiago/).
+My name is Gabriel Goren-Roig. I am a Mathematics PhD student at [Universidad de Buenos Aires](https://www.uba.ar/) / [CONICET](www.conicet.gob.ar) under the supervision of [Santiago Figueira](https://glyc.dc.uba.ar/santiago/).
 
 A physicist by training, I am interested in applying Category Theory and Logic to the study of the relationship between systems and their constituents.
 <!-- in particular with respect to coarse-graining and change of scale. -->
