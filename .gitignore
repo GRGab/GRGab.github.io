@@ -5,3 +5,5 @@ _site/
 _site
 _site/index.html
 _site/README.md
+Gemfile
+Gemfile.lock
